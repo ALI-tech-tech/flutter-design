@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutterdesign/day_1.dart';
+import 'package:flutterdesign/app.dart';
 
 void main() => runApp(const MyApp());
 
@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
     return  MaterialApp(
       debugShowCheckedModeBanner: false,
       title: '100 day',
-      home: Day1()
+      home: App()
     );
   }
 }
