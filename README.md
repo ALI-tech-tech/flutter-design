@@ -1,7 +1,7 @@
 # Flutter Design Challenges
 
 ## Overview
-Welcome to the Flutter Design Challenges project! This project is focused on enhancing your design skills with Flutter through periodic challenges.
+Welcome to the Flutter Design Challenges project! This project is focused on enhancing  design skills with Flutter through periodic challenges.
 
 ## Project Goal
 - Improve design skills using Flutter.
@@ -10,5 +10,7 @@ Welcome to the Flutter Design Challenges project! This project is focused on enh
 
 
 ![Day 1 Challenge]
-<img src="![images/week1.png](https://github.com/ALI-tech-tech/flutter-design/blob/main/assets/days_images/Day1.png)" alt="Week 1 Challenge" width="500" height="300">
+
+
+<img src="https://github.com/ALI-tech-tech/flutter-design/blob/main/assets/days_images/Day1.png" alt="Week 1 Challenge" width="500" height="1000">
 
