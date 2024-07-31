@@ -1,7 +1,7 @@
 # Flutter Design Challenges
 
 ## Overview
-Welcome to the Flutter Design Challenges project! This project is focused on enhancing your design skills with Flutter through periodic challenges.
+Welcome to the Flutter Design Challenges project! This project is focused on enhancing  design skills with Flutter through periodic challenges.
 
 ## Project Goal
 - Improve design skills using Flutter.
